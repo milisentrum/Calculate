@@ -15,6 +15,7 @@ namespace Calculate
         // Добавить в калькулятор скобки и применить алгоритм Рутисхаузера
         // Тренировка: программа с текстовым полем и лейблом. печатаю в лэйбле символы и в текстовом поле отображается кол-во введёных символов.
         // Text.Change в  actions textBox1
+        // link in skype
 
         private char[] _operations = { '+', '−', '÷', 'x' };
         private char _currentOperation = ' ';
